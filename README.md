@@ -14,7 +14,7 @@ To use this plugin, add `flutter_nhan_compass` as a [dependency in your pubspec.
 
 ```yaml
 dependencies:
-  flutter_nhan_compass: ^0.0.2
+  flutter_spo_compass: ^0.0.2
 ```
 
 ### iOS
